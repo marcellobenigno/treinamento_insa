@@ -1,8 +1,4 @@
-# CAPACITAÇÃO SIGWEB - INSA
-
-**Capacitação dos Técnicos do INSA**
-
-## Aula 1 - Instalação do Ambiente de Desenvolvimento
+# Aula 1 - Instalação do Ambiente de Desenvolvimento
 
 ## 1. Instalação do oh-my-zsh
 
