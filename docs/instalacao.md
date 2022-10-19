@@ -1,5 +1,7 @@
 # Aula 1 - Instalação do Ambiente de Desenvolvimento
 
+Link da gravação: [https://youtu.be/zVYt8Ld-fJY](https://youtu.be/zVYt8Ld-fJY)
+
 ## 1. Instalação do oh-my-zsh
 
 Primeiro, atualize a lista de pacotes:
