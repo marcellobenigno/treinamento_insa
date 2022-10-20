@@ -59,6 +59,8 @@ Onde me encontrar:
 ## 4. AULAS:
 
 #### [Aula 1 - Instalação do Ambiente de Desenvolvimento][1]
+#### [Aula 2 - Iniciando com o Django][2]
 
 
 [1]:docs/instalacao.md
+[2]:docs/iniciando-com-django.md
