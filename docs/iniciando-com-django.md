@@ -1,3 +1,5 @@
+# Aula 2 - Iniciando com o Django
+
 ## Criando o Projeto
 
 Dentro do diretório `/home/code` (ou onde você preferir), crie uma pasta com o nome `siginsa` e siga os passos a seguir:
