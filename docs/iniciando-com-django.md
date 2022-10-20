@@ -81,7 +81,7 @@ if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 ```
 
-### 2.4 Criando a view index na app core
+### 2.3.1 Criando a view index na app core
 
 Alter o arquivo `siginsa/core/views.py` para:
 
@@ -109,7 +109,7 @@ Crie dentro do diretório `core` outro diretório com o nome `templates`, em seg
 </html>
 ```
 
-### 2.5 Criando o path da url na app core
+### 2.3.2 Criando o path da url na app core
 
 Crie o arquivo `siginsa/core/urls.py` com o seguinte conteúdo:
 
@@ -124,7 +124,7 @@ urlpatterns = [
 ]
 ```
 
-### 2.6 Visualizando o resultado
+### 2.3.3 Visualizando o resultado
 
 Com a virtualenv ativa, dentro da pasta do projeto, digite: 
 
