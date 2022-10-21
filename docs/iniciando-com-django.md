@@ -2,6 +2,10 @@
 
 Link da gravação: https://youtu.be/FEcUUEEQg0g
 
+
+![](../imgs/lifecycle.png)
+
+
 ## 2.1 Criando o Projeto
 
 Dentro do diretório `/home/code` (ou onde você preferir), crie uma pasta com o nome `siginsa` e siga os passos a seguir:
