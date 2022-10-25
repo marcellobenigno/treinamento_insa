@@ -1,5 +1,6 @@
 # Aula 3 - Sistema de Templates e Arquivos Estáticos
 
+Link do vídeo: [https://youtu.be/UPl46JPTWXw](https://youtu.be/UPl46JPTWXw)
 
 Para que o Django sirva os arquivos estáticos e de media (arquivos de upload) de forma correta, iremos realizar duas alterações.
 
