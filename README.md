@@ -61,8 +61,10 @@ Onde me encontrar:
 #### [Aula 1 - Instalação do Ambiente de Desenvolvimento][1]
 #### [Aula 2 - Iniciando com o Django][2]
 #### [Aula 3 - Sistema de Templates e Arquivos Estáticos][3]
+#### [Aula 4 - Modelos][4]
 
 
 [1]:docs/instalacao.md
 [2]:docs/iniciando-com-django.md
 [3]:docs/sistema-templates.md
+[4]:docs/modelos.md
