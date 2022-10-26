@@ -67,4 +67,4 @@ Onde me encontrar:
 [1]:docs/instalacao.md
 [2]:docs/iniciando-com-django.md
 [3]:docs/sistema-templates.md
-[4]:docs/modelos.md
+[4]:docs/models.md
