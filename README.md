@@ -61,9 +61,9 @@ Onde me encontrar:
 #### [Aula 1 - Instalação do Ambiente de Desenvolvimento][1]
 #### [Aula 2 - Iniciando com o Django][2]
 #### [Aula 3 - Sistema de Templates e Arquivos Estáticos][3]
-#### [Aula 4 - Modelos][4]
+#### [Aula 4 - Modelos no Django][4]
 #### [Aula 5 - GeoServer][5]
-#### [Aula 6 - Django Models][6]
+#### [Aula 6 - Criando a app das Ações do INSA][6]
 #### [Aula 7 - Trabalhando com WFS no Leaflet][7]
 #### [Aula 8 - ORM do Django][8]
 
