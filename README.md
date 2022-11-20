@@ -63,10 +63,15 @@ Onde me encontrar:
 #### [Aula 3 - Sistema de Templates e Arquivos Estáticos][3]
 #### [Aula 4 - Modelos][4]
 #### [Aula 5 - GeoServer][5]
-
+#### [Aula 6 - Django Models][6]
+#### [Aula 7 - Trabalhando com WFS no Leaflet][7]
+#### [Aula 8 - ORM do Django][8]
 
 [1]:docs/instalacao.md
 [2]:docs/iniciando-com-django.md
 [3]:docs/sistema-templates.md
 [4]:docs/models.md
 [5]:docs/geoserver.md
+[6]:https://youtu.be/ogtmVhMygoI
+[7]:https://youtu.be/-MPYF5NsB3A
+[8]:https://youtu.be/oBFyn4CcPpQ
