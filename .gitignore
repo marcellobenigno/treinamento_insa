@@ -81,9 +81,6 @@ staticfiles/
 # Media
 mediafiles
 
-
-# python notebooks
-*.ipynb
 .vscode/
 
 .dnconfig
