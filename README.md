@@ -79,5 +79,4 @@ Onde me encontrar:
 [7]:https://youtu.be/-MPYF5NsB3A
 [8]:https://youtu.be/oBFyn4CcPpQ
 [9]:https://youtu.be/4enKN_Wa_s4
-[10]:
-[11]:
+[10]:https://youtu.be/IQXO-msR-2k
