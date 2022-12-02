@@ -67,6 +67,8 @@ Onde me encontrar:
 #### [Aula 7 - Trabalhando com WFS no Leaflet][7]
 #### [Aula 8 - ORM do Django][8]
 #### [Aula 9 - Definindo a Modelagem Final][9]
+#### [Aula 10 - Importação dos dados (parte 1)][10]
+#### [Aula 11 - Importação dos dados (parte 2)][11]
 
 [1]:docs/instalacao.md
 [2]:docs/iniciando-com-django.md
@@ -77,3 +79,5 @@ Onde me encontrar:
 [7]:https://youtu.be/-MPYF5NsB3A
 [8]:https://youtu.be/oBFyn4CcPpQ
 [9]:https://youtu.be/4enKN_Wa_s4
+[10]:
+[11]:
